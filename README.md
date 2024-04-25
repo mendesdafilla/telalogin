@@ -14,7 +14,7 @@ O projeto consiste no desenvolvimento de uma tela de login interativo para a emp
 ## Introdução ✉️
 A empresa Alpha busca expandir suas operações e estabelecer uma equipe de TI própria. Para selecionar o candidato ideal para a vaga de Programador(a) Trainee, eles propuseram um desafio que envolve a criação ou utilização de um projeto de tela de login, com foco na validação dos campos de acesso e na implementação de uma página para recuperação de senha.
 
-![tela de login ](print.png)
+![tela de login ](Captura de telalogin.png)
 ## Funcionalidades 🧠
 - Campo de usuário e Senha para login.
 - Opção para cadastro de novo usuário.
