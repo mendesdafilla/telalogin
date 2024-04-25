@@ -17,7 +17,7 @@ A empresa Alpha busca expandir suas operações e estabelecer uma equipe de TI p
 <img scr= "Captura de telalogin.png">
 
 ## Funcionalidades 🧠
-- Campo de usuário e senha para login.
+- Campo de usuário e Senha para login.
 - Opção para cadastro de novo usuário.
 - Recuperação de senha através de e-mail.
 - Validação dos campos de acesso (usuário e senha) utilizando JavaScript.
