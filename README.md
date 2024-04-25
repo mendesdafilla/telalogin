@@ -19,7 +19,7 @@ A empresa Alpha busca expandir suas operações e estabelecer uma equipe de TI p
 ## Funcionalidades 🧠
 - Campo de usuário e Senha para login.
 - Opção para cadastro de novo usuário.
-- Recuperação de senha através de e-mail.
+- Recuperação de senha através de E-mail.
 - Validação dos campos de acesso (usuário e senha) utilizando JavaScript.
 - Interface amigável e responsiva.
  
